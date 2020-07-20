@@ -3,6 +3,10 @@
 It's for Face Anti, Eye Status and landmark model for RGB img, run in windows 32.
 All code only rely on numpy and opencv to run. 
 
+# install
+numpy
+opencv
+
 
 # before:
 if you want to convert caffemodel to param.py
