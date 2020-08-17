@@ -17,6 +17,6 @@ run python caffe_convert/caffe_to_param.py
 test.py
 
 # Anti
-Model       Floats   ACC
-MiniFAntiV1          0.9723
-waiting……
+Model        ACC   GFlops     Weights 
+MiniFAntiV1  0.981  3.2     4.1M
+
